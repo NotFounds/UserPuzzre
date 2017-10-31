@@ -6,8 +6,6 @@ UserPuzzre
 開発日　   ：2014/10/11
 開発環境   ：Visual C# 2013
 動作環境   ：.Net Framework 4.0以上
-開発者　   ：池田伊織
-連絡　　   ：project.ocean2014@gmail.com
 
 ＠使い方/機能
 ・コマンドライン引数で「ImagePath  div_x  div_y  ImageArray」を指定してください。
